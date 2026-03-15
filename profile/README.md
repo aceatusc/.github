@@ -4,5 +4,4 @@
 
 At the ACE Lab, we are transforming computing experiences by adapting technology to human cognitive processes. Our research spans Human-Computer Interaction (HCI), Natural Language Processing (NLP) and Software Engineering to build tools that are intuitive, adaptive, and human-centric.
 
----
 [Website](https://aceatusc.github.io/) • [Twitter](https://x.com/uscacelab)
